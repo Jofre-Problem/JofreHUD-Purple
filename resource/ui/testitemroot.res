@@ -1,0 +1,4 @@
+	#base	"../../_custom/resource/ui/testitemroot.res"
+	#base	"../../_eleven/resource/ui/testitemroot.res"
+	#base	"../../_jofrehud/resource/ui/testitemroot.res"
+	#base	"../../_tf2hud/resource/ui/testitemroot.res"
